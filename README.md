@@ -18,7 +18,7 @@ You have stayed on my page for:
 
 - 🌱 I’m currently learning **Js**
 
-- 👨‍💻 All of my projects are available at [https://mahid76.github.io/Portfolio/](https://poblaaa.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mahid76.github.io/Portfolio/](https://mahid76.github.io/Portfolio/)
 
 - 💬 Ask me about **html, css, bootstrap, tailwind**
 
