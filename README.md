@@ -5,7 +5,7 @@ Welcome!
 </h3>
 
 <p align="center">
-You have stayed on my page for\:
+You have stayed on my page for:
 </p>
 
 <p align="center">
