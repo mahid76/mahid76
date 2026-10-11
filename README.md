@@ -20,7 +20,7 @@ You have stayed on my page for:
 
 - 👨‍💻 All of my projects are available at [[https://mahid76.github.io/Portfolio/](https://portfolio-iota-one-bhub1wc80k.vercel.app/)]
 
-- 💬 Ask me about **html, css, bootstrap, tailwind**
+- 💬 Ask me about **html, css, bootstrap, tailwind, react, node**
 
 - 📫 How to reach me **mahidulislamsohan76@gmail.com**
 
